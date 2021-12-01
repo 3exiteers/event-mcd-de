@@ -1,0 +1,55 @@
+{
+    "repository": {
+        "type": "event",
+        "organization": "3exiteers",  
+        "repository": "event-mcd-de",
+        "private": true
+      },
+    "name": "mCD",
+    "id": "A00000001",
+    "type": "event",
+    "version": 1.0,
+    "active": true,
+    "tags": [
+        "game",
+        "exclusive",
+        "original",
+        "short",
+        "visual",
+        "numeric"
+    ],
+    "level": "2",
+    "license": "MIT",
+    "banner": "event.png",
+    "visible": true,
+    "featured": "",
+    "title": "mCD",
+    "description": "Beschreibung der Übersicht",
+    "registration": {
+        "header": "Anmeldung erforderlich",
+        "body": "<p>Die Anmeldung an diesem exklusiven Event ist nur f\u00fcr eingeladene Spieler m\u00f6glich. Spieler, die sich anmelden m\u00f6chten, geben bitte den  angek\u00fcndigten <b>Teamcode</b> in das nachfolgende Feld ein.</p>Nach erfolgreicher Eingabe wird das Start-Kapitel der Geschichte aufgerufen...</p>"
+    },
+    "from": "2020-12-31 00:00:00",
+    "to": "2022-12-31 00:00:00",
+    "story": "mcd-de",
+    "survey": "",
+    "template": "3exiteers",
+    "team": {
+        "DUMMY": {
+            "name": "DUMMY",
+            "active": true,
+            "from": "2021-03-01 00:00:00.000000",
+            "to": "2022-12-31 00:00:00.000000",
+            "maxplayer": 0,
+            "permissions":{
+                "storyflow": true,
+                "editor": true,
+                "gitimport": true,
+                "teamreset": true,
+                "timerreset": true,
+                "eventreset": true
+            },
+            "deletable": false
+        }
+    }
+}
