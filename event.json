@@ -21,7 +21,7 @@
     "level": "2",
     "license": "MIT",
     "banner": "event.png",
-    "visible": true,
+    "visible": false,
     "featured": "",
     "title": "mCD",
     "description": "Beschreibung der Übersicht",
