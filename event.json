@@ -34,6 +34,10 @@
     "story": "mcd-de",
     "survey": "",
     "template": "3exiteers",
+    "variables": {
+        "betreuer_vorname":"name #1 event",
+        "betreuer_nachname":"name #2 event"
+    },
     "team": {
         "DUMMY": {
             "name": "DUMMY",
@@ -48,6 +52,10 @@
                 "teamreset": true,
                 "timerreset": true,
                 "eventreset": true
+            },
+            "variables": {
+                "betreuer_vorname":"name #1 team",
+                "betreuer_nachname":"name #2 team"
             },
             "deletable": false
         }
