@@ -21,10 +21,10 @@
     "level": "2",
     "license": "MIT",
     "banner": "event.png",
-    "visible": false,
+    "visible": true,
     "featured": "",
     "title": "mCD",
-    "description": "Beschreibung der Übersicht",
+    "description": "Astore Manor - bereits der Name offenbart Euch, dass dieser Ort Geheimnisse und Abenteuer in sich birgt. Eure Reise in die Schweiz zu dem alten Herrenhaus entwickelt sich anders, als ihr es geplant habt.",
     "registration": {
         "header": "Anmeldung erforderlich",
         "body": "<p>Die Anmeldung an diesem exklusiven Event ist nur f\u00fcr eingeladene Spieler m\u00f6glich. Spieler, die sich anmelden m\u00f6chten, geben bitte den  angek\u00fcndigten <b>Teamcode</b> in das nachfolgende Feld ein.</p>Nach erfolgreicher Eingabe wird das Start-Kapitel der Geschichte aufgerufen...</p>"
