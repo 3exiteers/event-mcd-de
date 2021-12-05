@@ -41,7 +41,7 @@
     },
     "team": {
         "DUMMY": {
-            "name": "DUMMY",
+            "name": "DUMMY - Creator Account",
             "active": true,
             "from": "2021-03-01 00:00:00.000000",
             "to": "2022-12-31 00:00:00.000000",
