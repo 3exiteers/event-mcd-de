@@ -13,10 +13,9 @@
     "tags": [
         "game",
         "exclusive",
-        "original",
-        "short",
         "visual",
-        "numeric"
+        "numeric",
+        "logical"
     ],
     "level": "2",
     "license": "MIT",
